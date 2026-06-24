@@ -53,7 +53,7 @@ Finalny zbiór danych obejmuje:
 
 - **Power BI** (Power Query, DAX) — główny silnik raportowy, procesy ETL oraz modelowanie danych
 - **Python** (Seaborn, Matplotlib) — wizualizacja statystyczna korelacji między wiekiem a ryzykiem wypadku → [`analysis.py`](analysis.py)
-- **LaTeX** — dokumentacja techniczna projektu
+- **LaTeX** — dokumentacja techniczna projektu → [`raport.pdf`](raport.pdf)
 
 ---
 
