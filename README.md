@@ -78,7 +78,7 @@ Proces **ETL (Extract, Transform, Load)** obejmował:
 
 Projekt oparto na **Schemacie Gwiazdy (Star Schema)**, zapewniającym wysoką wydajność obliczeniową i klarowność raportowania. Ze względu na relację wiele-do-wielu (jeden wypadek może obejmować wiele pojazdów i kierowców), zastosowano **tabelę mostu (Bridge Table)**.
 
-![Star Schema](docs/star_schema.png)
+![Schemat gwiazdy](star_schema/hurtownia.png)
 
 **Struktura tabel:**
 
@@ -136,22 +136,22 @@ Interaktywny raport podzielono na **cztery sekcje**:
 ### 1️⃣ Overview
 Ogólna analiza bezpieczeństwa ruchu. KPI umożliwiają szybką ocenę liczby wypadków, pojazdów i poziomu śmiertelności. Trend czasowy wskazuje na stopniowy spadek liczby wypadków.
 
-![Overview](images/overview.png)
+![Overview](Dashboard/d1.png)
 
 ### 2️⃣ Conditions Analysis
 Wpływ warunków pogodowych, nawierzchni i oświetlenia na śmiertelność. Najwyższy wskaźnik występuje podczas mgły oraz jazdy nocnej.
 
-![Conditions Analysis](images/conditions.png)
+![Conditions Analysis](Dashboard/d2.png)
 
 ### 3️⃣ Driver & Vehicle
 Zależności między profilem kierowcy, typem pojazdu a ryzykiem. Najbardziej narażeni są mężczyźni 75+, a najwyższe ryzyko wśród pojazdów mają pojazdy typu *Goods*.
 
-![Driver & Vehicle](images/driver_vehicle.png)
+![Driver & Vehicle](Dashboard/d3.png)
 
 ### 4️⃣ Location Analysis
 Przestrzenny rozkład wypadków. Londyn generuje znaczną część zdarzeń, ale przy niższym wskaźniku śmiertelności niż reszta kraju.
 
-![Location Analysis](images/location.png)
+![Location Analysis](Dashboard/d4.png)
 
 ---
 
