@@ -20,8 +20,6 @@
 - [Miary DAX](#-miary-dax)
 - [Dashboard](#-dashboard)
 - [Kluczowe wnioski](#-kluczowe-wnioski)
-- [Struktura repozytorium](#-struktura-repozytorium)
-- [Autor](#-autor)
 
 ---
 
