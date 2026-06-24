@@ -70,8 +70,6 @@ Proces **ETL (Extract, Transform, Load)** obejmował:
 - **Selekcja kolumn** — usunięcie nieprzydatnych atrybutów (np. technicznych identyfikatorów) w celu redukcji rozmiaru modelu i poprawy wydajności zapytań
 - **Inżynieria cech** — stworzenie flag logicznych (np. *czy weekend*) oraz scalanie zapytań
 
-> ⚠️ **Uwaga:** surowe dane z Kaggle nie są dołączone do repozytorium ze względu na licencję oraz rozmiar. Aby odtworzyć projekt, pobierz je z linku powyżej.
-
 ---
 
 ## 🏗 Architektura i model danych
@@ -155,6 +153,13 @@ Przestrzenny rozkład wypadków. Londyn generuje znaczną część zdarzeń, ale
 
 ---
 
+## 📥 Plik źródłowy (.pbix)
+
+Plik raportu Power BI (`.pbix`, ~110 MB) **nie jest dołączony do repozytorium** ze względu na rozmiar przekraczający limit GitHuba (100 MB) oraz fakt, że zawiera zaimportowane dane.
+
+Cała struktura projektu — model danych (schemat gwiazdy), miary DAX oraz wygląd dashboardu — jest udokumentowana w niniejszym README.
+
+---
 ## 💡 Kluczowe wnioski
 
 - **🧓 Spadek bezpieczeństwa u seniorów** — mężczyźni 75+ mają najwyższy wskaźnik śmiertelności (**2,6%**). *Rekomendacja: cykliczne badania psychomotoryczne dla kierowców po 70. roku życia.*
