@@ -12,7 +12,7 @@
 
 ## 🎬 Demo dashboardu
 
-▶️ **[Zobacz nagranie działania dashboardu (MP4)](Dashboard/Power_BI_UK_Accident.mp4)*
+▶️ *[Zobacz nagranie działania dashboardu (MP4)](Dashboard/Power_BI_UK_Accident.mp4)*
 
 ---
 
