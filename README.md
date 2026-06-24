@@ -1,4 +1,4 @@
-# wypadki-drogowe-wielka-brytania
+
 # 🚗 UK Road Accidents — Hurtownia Danych & Dashboard Analityczny
 
 > Kompleksowa hurtownia danych oraz interaktywny dashboard w Power BI, analizujący czynniki wpływające na śmiertelność w wypadkach drogowych w Wielkiej Brytanii w latach **2010–2017**.
