@@ -167,11 +167,4 @@ Przestrzenny rozkład wypadków. Londyn generuje znaczną część zdarzeń, ale
 
 > Analiza potwierdza, że bezpieczeństwo ruchu drogowego jest zjawiskiem wieloczynnikowym. Najskuteczniejsze działania prewencyjne powinny koncentrować się na grupach wysokiego ryzyka: seniorach, kierowcach pojazdów ciężkich oraz osobach prowadzących nocą w warunkach ograniczonej widoczności.
 
----
-
-## 👤 Autor
-
-**Igor Kozak**
-Projekt zrealizowany w ramach przedmiotu *Hurtownie danych i systemy analizy danych*
-Czerwiec 2026
 
